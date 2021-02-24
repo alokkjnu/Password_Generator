@@ -77,7 +77,7 @@ DATABASES = {
         'NAME': 'user3',
         'ENGINE': 'django.db.backends.mysql',
         'USER': 'root',
-        'PASSWORD': 'alok@143',
+        'PASSWORD': 'root@123',
         'OPTIONS': {
             'autocommit': True
         }
